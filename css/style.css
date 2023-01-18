@@ -1,0 +1,22 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background: #d8cfcf;
+    font-family: 'Open Sans', sans-serif;
+}
+h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+}
+h5{
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+}
